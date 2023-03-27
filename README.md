@@ -30,7 +30,7 @@
 - "Merge pull request" validar la unificación en la rama main
 - BEST PRACTICE: eliminar la rama de la que has sacado los cambios para no acumular ramas. IMPORTANTE: aunque la borres en github no se borra en el terminal (usar: git branch -d <rama>)
 
-# 4: reflejr cambios de github en local (terminal)
+# 4: Reflejar cambios de github en local (terminal)
 - git checkout <rama>: irse a la rama de la que queremos sus nuevos cambios en github
 - git pull: traerse los cambios al terminal
 - git branch -d <rama>: para borrar la rama en el terminal
