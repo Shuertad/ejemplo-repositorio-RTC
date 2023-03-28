@@ -9,6 +9,7 @@
 - git checkout -b <rama>: permite crear una rama nueva
 - git checkout <rama>: permite moverse a una rama que ya exista
 - git branch -d <rama>: permite borrar una rama en el terminal
+- git merge <rama>: mete los cambios de la <rama> en la rama en la que estes cuando lanzas este comando. Se usa cuando he creado un fork del repositorio de un tercero y sobre ese fork otra rama sobre la que voy a trabajar (rama B), y quiero traer los cambios del repositorio a la rama main de mi fork (rama A) y de ahí a la rama B.
 
 
 # Proceso git flow (best practices)
